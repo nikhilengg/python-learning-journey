@@ -1,0 +1,5 @@
+print(bin(10))
+print(int('1010',2))
+print(int('11',2))
+print(int('A',16))
+print(int('f',16))

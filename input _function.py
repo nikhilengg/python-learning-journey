@@ -1,0 +1,5 @@
+#input("wht is your name? ")
+#print("hello" + "  " + input("enter your name: "))
+print("hey" + "  " + input("wht is your name") + "," + "  "  + "how are you" + " " + "?")
+input()
+print(" oh good!")
