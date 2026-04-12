@@ -1,4 +1,4 @@
-# Python Learning Journey 🚀
+# Python Learning Journey 
 
 ## Day 1
 - Print statements
