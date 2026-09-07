@@ -1,7 +1,7 @@
 import random
 import hangman_stages
 import word_file
-word_list=['apple','beautiful','potato']
+# word_list=['apple','beautiful','potato']
 lives=6
 chosen_word=random.choice(word_file.word_list)
 # print(chosen_word)
