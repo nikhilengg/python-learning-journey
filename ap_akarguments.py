@@ -1,9 +1,3 @@
-# def add(*numbers):
-#     c=0
-#     print(numbers[0])
-#     for i in numbers:
-#         c+=i
-#     print(c)
 
 # add(12,34)
 # add(12,32,44)
